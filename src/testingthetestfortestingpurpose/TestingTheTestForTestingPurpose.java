@@ -17,7 +17,7 @@ public class TestingTheTestForTestingPurpose {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("BOnjour test test");
+        System.out.println("Bonjour test test");
     }
     
 }
