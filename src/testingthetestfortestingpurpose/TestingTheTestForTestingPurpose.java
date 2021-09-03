@@ -16,9 +16,8 @@ public class TestingTheTestForTestingPurpose {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        YO TABARNAC
         
-        //Test test
+        System.out.println("BOnjour test test");
     }
     
 }
